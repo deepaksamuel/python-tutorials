@@ -16,3 +16,5 @@ plt.show()
 # if the file has NO header rows, you must state that explicitly
 # more info at https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
 
+# if you want to have the full view of the dataframe, go to variable explorer in the Spyder IDE and click on the parameter df. 
+# A separate window will open show the file in an Excel Sheet like view.
