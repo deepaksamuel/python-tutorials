@@ -3,10 +3,10 @@
 # Step 1: Anaconda installation
 You will have to install the Anaconda distribution from this link: https://www.anaconda.com/
 # Step 2: Open Anaconda Navigator
-Once Anaconda is installed, a program called Anaconda Navigator is installed. You can open it by searching for it in your Windows machine or by typing conda-navigator or anaconda-navigator in linux-based machine. Ubuntu launch pad will also have Anaconda navigator. 
+Once Anaconda is installed, a program called Anaconda Navigator is installed. You can open it by searching for it in your Windows machine or by typing conda-navigator or anaconda-navigator on linux-based machine. Ubuntu launch pad will also have Anaconda navigator. 
 ![Image description](img/nav.png)
 # Step 3: How to install python libraries
-Anaconda navigator will help you install python libraries for you that is apt for your python version. Click on "Environments" in the navigator which will take you to another page. You can see the list of installed packages or search for new packages and install them directly. For example, if you want to install the numpy package, you will enter "numpy" (without quotes) and select "not installed" in the drop down box next to "Channels".. If the package shows up, click on it and a install button shows up at the bottom.
+Anaconda navigator will help you install python libraries for you that is apt for your python version (Don't use pip (unless you are not using anaconda) that will mess up your python installation). Click on "Environments" in the navigator which will take you to another page. You can see the list of installed packages or search for new packages and install them directly. For example, if you want to install the numpy package, you will enter "numpy" (without quotes) and select "not installed" in the drop down box next to "Channels". If the package shows up, click on it and a install button shows up at the bottom.
 ![Image description](img/ins.png)
 # Step 4: Opening Spyder
 Click on Spyder icon to open the Spyder IDE. This is where you will write your code.
@@ -16,7 +16,7 @@ The defautl IDE has 3 sub windows in it. On the left side, you have space to wri
 # Step 6: Running your code in Spyder IDE
 To compile or to run your code in Spyder, click on the green triangle on menu and you will you see the output (or errors)in the output console.
 # Step 7: Using other IDEs
-Visual code is equally good. You can try it but Spyder is good for beginners in my opinion.
+Visual Studio Code is equally good. You can try it but Spyder is good for beginners in my opinion.
 
 
 
