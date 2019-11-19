@@ -10,11 +10,11 @@ import numpy as np
 # the ":" is the beginning of the loop"
 # The moment you press enter after the ":", a tab space (indent) is created for you in Spyder (and most python IDEs)
 #  All statments with an indent are considered to be a part of that loop.
-# One should be careful no to create/delete extra spaces in the beginning of such statements. This will lead to problems.
+# One should be careful not to create/delete extra spaces in the beginning of such statements. This will lead to problems. The indent space plays the role similar to that of curly brackets in C/C++
 # To come out of the loop, at the end of the last statement of the loop, press shift + tab
 
 for i in np.arange(0,10): 
-    print("{0} Hello".format(i))
+    print("{0} Hello".format(i)) # observe the space before this statement (Don't delete it). Its called a indent which is auto created when you press enter after pressing the : characater. You can also press the tab button to create one. 
 print("loop over")
 
 # Assignment
