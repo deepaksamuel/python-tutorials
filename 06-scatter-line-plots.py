@@ -20,3 +20,4 @@ plt.show() # comment this line in Spyder
 #  change the step size in z to 0.1 and see what happens
 #  plot also the cosine of the numbers
 #  change the x-axis title to X and y-axis title to "Sin(x)" and the title of the plot to Plot of sin(x)
+#  instead of plt.plot, use plt.scatter in line 16 and see how the plot looks like
