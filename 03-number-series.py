@@ -27,3 +27,4 @@ print(ser)
 # Assignment:
 # generate a series of numbers between 100 and 1000 with a step size of 100
 # generate a series of numbers between 1000 and 100 with a step size of 100
+# more information on how to merge arrays and exrtact arrays can be found in fft example

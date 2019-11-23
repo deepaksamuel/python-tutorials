@@ -14,7 +14,7 @@ import numpy as np
 ran = np.random.normal(0,1,1000) #(mean, sigma, number of samples)
 print(ran)
 
-# generate a series of 1000 random numbers from a uniform number between 0 and 1 
+# generate a series of 1000 random numbers from a uniform distribution between 0 and 1 
 ran = np.random.uniform(0,1,1000) #(low, high, number of samples)
 print(ran)
 
