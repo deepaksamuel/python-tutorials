@@ -1,5 +1,6 @@
 # python-tutorials
- A step-by-step introduction of python for physics students
+ A step-by-step introduction of python for physics students by Deepak Samuel.
+ >> Note that, I now prefer using VSCode instead of spyder. The installation instructions will be posted soon.
 # Step 1: Anaconda installation
 You will have to install the Anaconda distribution from this link: https://www.anaconda.com/
 # Step 2: Open Anaconda Navigator
